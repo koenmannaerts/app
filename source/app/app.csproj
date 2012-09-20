@@ -80,6 +80,7 @@
     <Compile Include="Calculator.cs" />
     <Compile Include="MessageGenerator.cs" />
     <Compile Include="utility\container\Dependencies.cs" />
+    <Compile Include="utility\container\FetchDependencies.cs" />
     <Compile Include="utility\container\GetTheActiveContainer_Behaviour.cs" />
     <Compile Include="utility\container\IFetchDependencies.cs" />
     <Compile Include="utility\logging\GetTheCallingType_Behaviour.cs" />
